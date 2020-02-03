@@ -1,5 +1,5 @@
 <?php
-namespace imwood04\woodDevs;
+namespace WoodDevz/imwood04;
 
 use pocketmine/command/Command;
 use pocketmine/command/CommandSender;
